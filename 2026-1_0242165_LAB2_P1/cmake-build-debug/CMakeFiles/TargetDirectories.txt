@@ -1,0 +1,3 @@
+C:/Users/jdomi/OneDrive/Documentos/ALGORIT_2026-2/LAB2/2026-1_0242165_LAB2_P1/cmake-build-debug/CMakeFiles/2026_1_0242165_LAB2_P1.dir
+C:/Users/jdomi/OneDrive/Documentos/ALGORIT_2026-2/LAB2/2026-1_0242165_LAB2_P1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jdomi/OneDrive/Documentos/ALGORIT_2026-2/LAB2/2026-1_0242165_LAB2_P1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
