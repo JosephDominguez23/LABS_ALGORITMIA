@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2025.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\jdomi\OneDrive\Documentos\ALGORIT_2026-2\LAB3\Budsunny -B C:\Users\jdomi\OneDrive\Documentos\ALGORIT_2026-2\LAB3\Budsunny\cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/jdomi/OneDrive/Documentos/ALGORIT_2026-2/LAB3/Budsunny/cmake-build-debug
