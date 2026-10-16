@@ -1,0 +1,6 @@
+Atendido: 1002 (P1)
+Estado: [P1:1005][P2:1001, 1004]
+Atendido: 1005 (P1)
+Atendido: 1001 (P2)
+Atendido: 1004 (P2)
+Estado: [P1:][P2:]

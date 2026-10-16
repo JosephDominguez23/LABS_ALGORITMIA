@@ -1,0 +1,8 @@
+llegada 1001 regular
+llegada 1002 preferente
+atender 1
+llegada 1004 regular
+llegada 1005 preferente
+imprimir
+atender 3
+imprimir
